@@ -1,12 +1,12 @@
 <idea-plugin>
-    <name>Developer Tools</name>
-    <vendor email="dev@marcelkliemannel.com"
+    <name>MJ Tools</name>
+    <vendor email="mr.maj73@gmail.com"
             url="https://marcelkliemannel.com/projects/intellij-developer-tools-plugin">
-        Marcel Kliemannel
+        MJ
     </vendor>
 
     <description><![CDATA[
-<p>This plugin is a powerful and versatile set of tools designed to enhance the development experience for software engineers. With its extensive collection of features, developers can increase their productivity and simplify complex operations without leaving their coding environment.</p>
+<p>This plugin is a powerful and versatile set of tools designed to enhance the development experience for MJ. With its extensive collection of features, developers can increase their productivity and simplify complex operations without leaving their coding environment.</p>
 
 <p>Plugin icon by <a href="https://www.svgrepo.com/svg/489187/toolbox">Gabriele Malaspina</a>.</p>
 
